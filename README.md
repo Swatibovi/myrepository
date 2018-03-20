@@ -1,1 +1,1 @@
-# myrepository
+This RMI application performs basic banking operations such as Withdraw, Deposit, View account details etc at the Server machine and then sends the results on the Client machine based on the request made by the client.
